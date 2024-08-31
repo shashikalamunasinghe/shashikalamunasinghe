@@ -4,14 +4,14 @@
 
 - 🌱 I’m currently learning **Spring Boot, Python, React**
 
-- 🤝 I’m passionate about **software development and data science**
+- 🤝 I’m passionate about **software development, data science, and machine learning**
 
 ---
 ### Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,c,c++,scala,php,python,firebase,flutter,html,java,js,linux,mongodb,mysql,react,reactnative,tailwind,vscode,r,octave,figma,canva,trello,jira&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,c,cplusplus,scala,php,python,firebase,flutter,html,java,js,linux,mongodb,mysql,react,reactnative,tailwind,vscode,r,octave,figma,canva,trello,jira&perline=14" />
   </a>
 </p>
 
