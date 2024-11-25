@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SafetyNet web & mobile road safety and management system**
 
-- 🌱 I’m currently learning **Spring Boot, Python, React**
+- 🌱 I’m currently learning **Spring Boot, Python**
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 
