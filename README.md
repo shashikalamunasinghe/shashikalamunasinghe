@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shashikala</h1>
 
-- 🔭 I’m currently working on **SafetyNet web & mobile road safety and management system**
+- 🔭 I’m currently working on **Solar Power Management system**
 
 - 🌱 I’m currently learning **Spring Boot, Python**
 
